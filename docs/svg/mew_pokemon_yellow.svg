@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 81 81"
+        style="width: 100%; height: 100%; overflow: auto;">
+    <script type="text/javascript"><![CDATA[
+window.addEventListener('load',function() {
+    var bounding_rect = document.getElementById("bounding-rect");
+    var text = document.getElementById("ascii");
+    var bb_text = text.getBBox();
+
+    // Change the font size so that the height and width match up
+    var font_size = Math.round(1e3 * bb_text.height / bb_text.width) / 1e3;
+    text.setAttribute("font-size", font_size + "px");
+
+    // Adjust size of bounding rectangle
+    bb_text = text.getBBox();
+    bounding_rect.setAttribute("width", bb_text.width);
+    bounding_rect.setAttribute("height", bb_text.height);
+}, false);
+    ]]></script>
+    <style type="text/css">
+    text.ascii-art {
+        user-select: none;
+        whiteSpace: "pre";
+        fill: white;
+        -webkit-user-select:none;
+        -khtml-user-select:none;
+        -moz-user-select:none;
+        -ms-user-select:none;
+    }
+    </style>
+    <rect x="0" y="0" height="100%" width="100%" id="bounding-rect"/>
+    <text x="0" y="0" id="ascii" font-family="monospace, courier" text-anchor="start"
+        font-size="1px" class="ascii-art">
+    <tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                           __!!!                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                           __!!!                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                           !!___!!!                     !!!QQddd!!                                                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                        ___dddddddd__                   ___QQQQQdd!!!___________!!                                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                     ___dddddddddddQQ!!!                ___QQQQQ__dddddddddddddddd!!!___!!      !!___!!!                             </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                     ___dddddddddddQQ!!!                ___QQQQQ__dddddddddddddddd!!!___!!      !!___!!!                             </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                   !!dddddddddddQQQQQ___                ___QQdddddddddddddddddddddddddddQQ______dddddddd!!                           </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                   __dddddddddddQQQQQ!!!                !!!!!dddddddddddddddddddddddddddddQQQQQQddQQQQQQ__                           </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                   __dddddddddddQQQQQ!!!                !!!!!dddddddddddddddddddddddddddddQQQQQQddQQQQQQ__                           </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                   !!ddddddddQQQQQQ__                !!!ddd!!!!!ddddddddddddddddddddddddddddddddddQQQQQQ!!                           </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                !!!ddddddddQQQQQ___                !!ddd___dd___dddddddddddddQQQQQ!!!___!!ddddddddQQQ___                             </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                !!!ddddddddQQQQQ___                !!ddd___dd___dddddddddddddQQQQQ!!!___!!ddddddddQQQ___                             </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                ___dddddQQQQQ___                   __ddd!!!__!!!dddddddddddddQQQ!!___QQQ__ddddddQQ___                                </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                             !!!___QQQQQQQQ__                      !!QQQddd!!QQQddddddddddddd!!!_____ddd__dddQQQ__                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                             !!!___QQQQQQQQ__                      !!QQQddd!!QQQddddddddddddd!!!_____ddd__dddQQQ__                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                           !!___QQQ__QQQ___                  ___     ___QQQQQdddddddddddddddd!!!dd___ddd__dddQQQ__                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                        !!!_____dddQQ___                   !!QQQ___     ___ddddddddddddddddddQQQ!!______!!QQQQQQ!!                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                        !!!_____dddQQ___                   !!QQQ___     ___ddddddddddddddddddQQQ!!______!!QQQQQQ!!                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                        ___dd!!!dddddQQQ!!!                __!!!QQQ__   !!!ddddddddddddddddddQQQQQQQQQQQQQQQQ___                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                        ___ddddd!!!ddQQQ___                !!dddQQQQQ___   __dddddddddddddQQQQQQ!!QQQQQQ__!!!                                        </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                        ___QQddd___ddQQQ!!!                  ___QQQQQ!!!___  !!!_____________!!!_____                                                </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                        ___QQddd___ddQQQ!!!                  ___QQQQQ!!!___  !!!_____________!!!_____                                                </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                        !!!!!dddddddddddQQQ!!                !!!_____!!!!!!!!___!!QQQQQQ!!!!!!!!__                                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                           !!dddddddddddQQQ__              !!___dddQQ________!!!QQQQQQQQQQ!!!!!!!!                                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                           !!dddddddddddQQQ__              !!___dddQQ________!!!QQQQQQQQQQ!!!!!!!!                                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                           __ddddddQQdddQQQ__              _____ddddd___QQQ__QQQddQQQQQQQQQQQQQQ!!___                                                </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                           !!!!!ddd!!QQQddd__           !!!QQ___ddddd___ddd__dddddddddddddQQQ!!!QQQQQ___                                             </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                           !!!!!ddd!!QQQddd__           !!!QQ___ddddd___ddd__dddddddddddddQQQ!!!QQQQQ___                                             </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                             ___ddd!!!!!ddd__           ___dd!!!ddddd!!!ddd!!dddddddddddddQQQ___dddddQQQ__                                           </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                             !!!ddd!!!!!ddd__           ___ddddddddddddddddQQ!!!ddddddddddddd!!!ddddddddQQ___                                        </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                             !!!ddd!!!!!ddd__           ___ddddddddddddddddQQ!!!ddddddddddddd!!!ddddddddQQ___                                        </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                !!!!!!!!ddd__           ___dddddddddddddddddd___dddddddddddddQQQ!!ddddddddQQQ___                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                             !!!___ddQQQddd__           ___dddddddddddddddddd___dddddddddddddQQQ__!!!dddddQQQQQQ__                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                             ___!!!!!ddddddQQ___        !!!QQdddQQQ!!QQQddddd___ddddddddQQddd!!!  ___!!!dd___QQQ!!                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                             ___!!!!!ddddddQQ___        !!!QQdddQQQ!!QQQddddd___ddddddddQQddd!!!  ___!!!dd___QQQ!!                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                             ___!!!__dddddddd___   __!!!QQQ!!ddd!!!!!!!!ddddd___dd___!!!QQQQQ___        !!   !!!                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                             ___QQQ__ddddddddQQQ___!!QQQQQQ__ddd!!!!!!!!ddddd___!!ddddddQQQQQ___                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                             ___QQQ__ddddddddQQQ___!!QQQQQQ__ddd!!!!!!!!ddddd___!!ddddddQQQQQ___                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                             ___QQQ__!!!dddddQQQQQQQQQQQQQQ!!QQQ!!!!!!!!ddddd___dddddQQQQQQQQ___                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                             !!!QQQ!!   !!!_____!!!QQQQQQQQQQ!!!QQQ!!QQQdddQQ!!!ddQQQQQQQQQQQ!!!__                                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                             !!!QQQ!!   !!!_____!!!QQQQQQQQQQ!!!QQQ!!QQQdddQQ!!!ddQQQQQQQQQQQ!!!__                                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                ___dd___           !!___________ddddddddQQQ!!!!!!!QQQQQQQQ!!!!!!!!___                                                </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                !!!dd!!!                     !!!QQQdddddQQQ__!!!!!!!!QQQQQ______!!!!!___                                             </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                !!!dd!!!                     !!!QQQdddddQQQ__!!!!!!!!QQQQQ______!!!!!___                                             </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                   __ddd___                     !!!ddQQQQQQ__!!!________!!      !!!!!!!!__                                           </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                     ___ddd!!___!!!             ___QQQQQQQQ!!___                __!!!!!!__                                           </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                        ___dddddQQQ!!______!!      !!QQQ!!!             !!___!!!!!!!!!!!                                             </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                        ___dddddQQQ!!______!!      !!QQQ!!!             !!___!!!!!!!!!!!                                             </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                           !!___!!!QQQQQQQQQQ!!!_____________________!!!!!!!!!!!!!!!!                                                </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                   !!___!!!QQQQQQQQQQQQQQQQQQQQQQQQQQ!!!!!______!!                                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                   !!___!!!QQQQQQQQQQQQQQQQQQQQQQQQQQ!!!!!______!!                                                   </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                           !!________________________!!!                                                             </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+<tspan x="0" dy="1.235%" textLength="100%" xml:space="preserve">                                                                                                                                                     </tspan>
+    </text>
+</svg>

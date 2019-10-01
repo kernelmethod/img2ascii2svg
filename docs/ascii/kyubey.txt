@@ -1,0 +1,76 @@
+     .     .                                                                             ....          .....    ..     ...  ..    .     .         . . 
+     .                                                        . ... .                    .... .        .....    ..     ...  ..      .   .         ....
+                                                       ....._vwwww(www!,.......          .... .        .,.       .     ...  ..      .   .         ..  
+                                                  ....,wwttt%%%%%nt-%%%%tnwv....         ...          .,.,              ....                       .  
+                                              ...!wt%%%2222222222%%%_2222222%%tnw!..........         ,,.!               ....                       .  
+                                            ..wt%%%2222222222222!2%%%|222222222222%ttnv-,,...........ww{.               ....         .             . .
+                                          .-t%%222222222222222222%(*%22222222222222222%%%%tnnnwwwntttnw.                ....                        . 
+                                        ..w%222222222222222Q22222{((%2t222Q22Q2222222222222%2%%%%%%%%w.       . .       ....   ..                .  . 
+                                      ..w%%222222222222QQQQQQQQ{2((((22(2QQQQQQQQ22222222222222222%tw.       ..  .      ... .. .. .       ..     .. . 
+                                     .(t%222222222222QQQQQQQQQ22v((*|2Q2vQQQQQQQQQQQ2222222222222%n..        ..         ...    ..     .   ..     .. . 
+                                    ..t%22222222222QQQQQQQQQQQ!2v(v||%QQ2QQQQQQQQQQQQQ222222222%%w..                    ... .                         
+                                  ..{t%222222222QQQQQQQQQQQQQ222v((||wQQQtQQQQQQQQQQQQQQ222222%n,.                      ...    ..  .   .              
+                                 ..w%222222222QQQQQQQQQQQQQQQv2{vv|||_QQQ22QQQQQQQQQQQQQ2222tn,..                       ... . .  ..                   
+                            ..  ..-%22222222QQQQQQQQQQQQQQQQQ{Q{vv||||QQQQ!QQQQQQQQQQQQ22%w=......              .       ... .  . .   .. .           . 
+                          . .. ..|%222222Q2QQQQQQQQQQQQQQQQQQ22{v(|||=QQQQQQQQQQQQ222n(!=,.....                  .      ... .. ..       .             
+     .     .           . .  .. .|t222222QQQQQQQQQQQQQQQQpppQQQw{v*|||=2QpQQ(QQ2{v(((!_.. . ....                         ... .  .. .                   
+  .        .  .        .     ...t222222QQQQQQQQQQQQQQpQpppppn2{{v*||=*2QpppQvv(((!.      . .....                        ... .     ..   .              
+.. .                          .(%222222QQQQQQQQQQQQppQppQppQ(2{{v*===*wQppQQv((,..         ...                          ... .     ..                  
+,,,..                        .,t2222Q2QQQQQQQQQQQpQppppppppQQn{{!*****vQppppv-,...         . .  ..                      ... .    ... .                
+.,,,,...                     .t%2222QQQQQQQQQQQQppQppppppppQQwww_vvv{2pppdpppQQ22{...      .......                      ..... .  .    .               
+..,...,..  .        .    .  .{%222QQQQQQQQQQQQQpppppppppppppQnv%w{{QQppddddddpppQQ22(... . .......     .                 .... .  .                    
+  .....,,,.....     .    . ..%2222QQQQQQQQQppQppppppppdddpp2%QQt2QppddddddddddddppppQQ2t.,......... ........,,,,......   .... . .                     
+     ...,,,,....    .  . ...w222QQQQQQQQQQQpppppppppdddppp2QpQvppdddddddddddddddddddpppQQ2n,,.......,wt%%%22%%%tttnnn{   ....                         
+       .....,,......... . ..t222QQQQQQQQQQpppppppppddpdppwpppQpddddddddddddddddddddpdppppQQ2(,..,,w%222222222%tnw.*tn.  .....                         
+          .....,...........n%22QQQQQQQQQQQpppppppdpddpp2QppQpdddddddddddddddddddddddddpdpppQQ2w(22QQQQQ222%n|,.***wtw.   ...                          
+             ....,,........%22QQQQQQQQQQQpppppppddddpQ!pppQQdddddddddddddddddddddddddddddppppQQQQQQQQQ22t,,,,..**!tt..  ...                           
+              ...,,,,.....n%2QQQQQQQQQQQppppppdddddpQvpddpQddddddddddddddddddddddddddddddppppppppQQQQ2%__,,,.,.*!wtt.    ..                           
+                 ...,,...,%2QQQQQQQQQQppppppppdddddQQdddpvdddddddddddddddddddddddddddddddddppppppQQQ2||_-,,,,,*!!%tw     ..                           
+...                 ...,,,22QQQQQQQQQpppppppdddddpvQdddp(pdddppQQQQddddddddddddddddddddddddddppppQ2|||_--,,,,,!!(%w.                                  
+......                ..,w22QQQQQQQppppppppddddpp{pdddpwQddddQ(((((QddddddddddddddddddddddddddppQ%!|||__-,,,,|((%t. .                                 
+.......                .,t2QQQQQQQQQppppppdppddp(pddddQ(pdddp((!,,(!pdddddddddddddddddddddddpdpppQ(*||__--,,,!(%%(.  . .                              
+.........               .t2QQQQQQQQQppppppdppdp(pddddQwQpddpp(!,,,*QQdddddddddddddddddddddddpddppQ((*||__---!(w%t.     .                              
+............            ,2QQQQQQQQQppppppddpppQpddddpwwpdddpp(!,,,-(QddddddddddddddddddddddddddppQ2v(|||__-|((2t.      .                              
+..............          _2QQQQQQpppppppdddddp*pddddd%w{pddddpw(!,-(vpddddddddddddddddddddddddddddpQ2v!|||_|((2%,.     .. ..                           
+................        *2QQQQQpppppppdddddpvpdddddpww*pdddddp2*(((pddddddddddddddddddddddddddddddp{Q{_|||!v%2_.      ..  .                           
+................... .   (2QQQQQpppppppddddp(ddddddpw{wvddddddddppppdddddddddddddddddddddddddddddddpppQ%*=!v22n..      .                               
+......................  v2QQQQQQQpppppddpptpddddddQw{{(ddddddddddddddddddddddpdddddddddddddddddddp2pppQv*vv2%..                                       
+........................|2QQQQQnQQQppppdp(pddddddpw{{{!pddddddddddddddddddddddddddddddppQQpddddddp(ppppQvw22!,..                                      
+........................,2QQQQQ2222nQppd2pdddddddww{{{(pdddpdddddddddddddddddddddddddp!((((ppddddp(ppppQnQ22Q2%w.                                     
+........................,2QQQQQ!tQ=2Q!Qtppdddddppw{{w{wpdddpdddddddddddddddddddddddpd!((,,(npddddp(pppppQ22QQQQ22w..                                  
+........................,%QQppQQwQpQvQv2pddddddd2w{{{{(Qddddddddddddddddddddddddddddp((,,--Qpddddp(pddppQ!QpQQQQQ2%(....                              
+........................,{QQpppp(!pppQ2Q(ddddddpw{w{{*Q(pddddddddddwddddddddddddddddp((,,,,(Qddddd(pdddppQQpQQQQQQ22t...                              
+(-.................. ...,-2QppppQ2tpQ2pQQtpdddptw{{{vQppvddddddddddpQpdddddddddddddddw((,-!vpddddd(pdddppQvpQpQQQQQQ22n.                              
+-..........,,......  ....,%QQppppQ2Q(ppdQQQQddQw{{{{2pddQpddddddddddQpdpdddddddddddddQv(((*ppddddp(ppddppptQpQQQQQQQ222*..                            
+,,........,,,.....   .....,2Qppppp2nQpdddp(2Qpw{{{{vpddddppdddddddddddpptdddddddpddpddppQQpdpddddp(pdddpppQQpQQQQQQQQQ2%n.                            
+=t|.,.....,,,....    .!,(-,,2QppppQQpdpddddQ2(w{{{{QddddddppdddddddddddddwppwpddpddddddddpddddddpQvpdddppppQQQQQQQQQQQ222n.                           
+,,........,,,....    ,,-,,,,-Qpppp2pdddddddpv2{{{{*pdddddddppddddddddddddpppddddddddddddddddddddpw{pdddddpp!QppQQQQQQQQ22%-                           
+....-.....,,,..,.   .=|((!____QppQpdddddddddpw2{{{ppddddddddpQdddddddddddddddddddddddddddddddddpwwwpdddddppQQppQQQQQQQQQ22%_.                         
+....,,....,|,.,=.   .!v22%vww(!Qp(pdddddddddpw!2{2pddddddddddp2pdddddddddddddddddddddddddddddddt{wvpddddddpp*QpQpQQQQQQQ222t.                         
+..,-|,|!==,--=v{.   .(%Qvtdd%QQ2{pddddddddddw{{v2Qdddddddddddddp!pddddddddddddddddddddddddddddpwwQ(pdddddddpQQpQpQQQQQQQ2222t.                        
+...|((!==-,=|vw!.   .{ppwtpQ2pdptppdddddppdpw{{{|(pddddddddpdddddQ2pdddddddddddddddddddddddddpw{vQ(dddddddppp!QpQQQQQQQQQ222%,                        
+.................   .=nQQ%p2pddpppppdpddpddQ{{{{Q2(ddddddddpddddddp%{Qppdddddddddddpdddddddp2ww2ppndddddddpppQQQQQQQQQQQQ2222n.                       
+ .......    .....   ...=(vvwQpd2pdppdppdpdpw{{{!pQ22ddddddddddddddd2w{(%QppddddddddddddddppwwwQpddQpddddddppppvQQQQQQQQQQ2222%(                       
+.........    .....  ...vt=tQv2%QppddpdddddQww{{Qppw2pdddddddddddddptw{{ww!QQppppddddddddpQww!QpddddpdddddddpppQQQpQQQQQQQQ2222w.                      
+..-,,-,,......_,.......!!-((ww2Qpppdpddddd%ww{|({w2(npppdddpppppppQ(w{{{{{{{wv!(%QQQQQp2!wQpddddddppddddddddppQ!QQQQQQQ2222222t,                      
+-,-____--,,,,,,,,,,,,,,_____||2ppppppddddpww{v(!t={{2w{wwwwwwwwwww{v{{{{{{{{{{{{w{w2QpddddddddddddpQdddddddpppQ22w!(ww2w(!%222%w,.....................
+________________________||||*wQQpppppppppQw{vv*||wt!2v{{{ww{{{{{{{{{{{{{{{{{{{{{{{w{2ppdddddddddddpwddddpppQQt(2ttv=v%2%w|w2222n-,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,-%QQQppppppppQw{v*-,,---w---|(v(vv(v((*t{{{{{{{{{{{{{www!wwpppddpddddpp(pddpQQ(22(%QQ2QQQQQ2%ww2222t,.. ..... ..  .       
+,...........................,2QQQpppppppQn{{v.....................-Q2w{{{{{{{{{ww2pppw{wwwwwwttwwwQQQQQ!2t(QppppQ2QQQQ2|ww22222%,.                 .  
+--__-____--_--_-----_---,___wQQQQQpppppppw{{(-,,,,,,,,,,,,.,,,,,,||ppQww{{{{{wwQppddp(w{{w{wwwww{wwQQv2{pQdppppppQwQQ2|w%2222222(,.........,....... ..
+,_-,,,,,-,-,,,,,,,,,,,.,,,--2QQQQQQppppppw{v-,,,,.....,,,,,,.,,,,|2pddpwwwwwwppddddddQ!vv{{{{{w{{{{t22pdddddddppppQ2wt=Q2QQ22222w.,... ......    .. . 
+.,-,.,.,,,,,..,..,,.,..,.,_-2Q22QQQQQQQQQ{vv_.....,,..,,,..,..,.,|QdddpdptQpdddddddddpQ_--(v{v{{{(tvwpddddddddppppQ((2QQQQQ22222t,,.. ....... .....   
+...... .............. ...._nQQt=QQQQQQQQ2vv(,.. ...........,....,{pdddddddddddddddddddQw,,,,,,-|t={{wQpdddddddpQppQQ2QQQQQQ22222t..     ..       .    
+.. ..  ...... ... ... ... ,%22Q2QQQ2=(QQ%(v*... ... .. ... ... .,2pddddddddddddddddpddp2,....,,tv{{{{QpddddpdppppppQ(QQQQQQQ2222n,                    
+ .     ...    ...       ..,22QQQQQQ2=%2Qn-(.    .      .       .,Qpddddddddddddddddddddp,....,w,vv{{{!pdddppdpppppQQ22QQQQQQ2222n.                    
+   .,  .....,.......  ....w22QQvQQQQQQQQv((...   . . .     . ...*QddddddddddddddddddddddQ_,..t(=|(w2t2QpddppdppppQQQQn2QQQQQ2222n,             .      
+  ..., ...........,.. ...,%2QQ22QQQQQQQ2w(!....   ..... . .,....%pddddddddddddddddddddddpQ2,,.,-,|!v{{(pddddppppppQQQ2nQQQQQQ222w..      .       .    
+   ... .............. ...,%2Q2*2QQQQQQ|2vv_....  ........  ,...,2pddddddddddddddddddddddddpQ2_,..,v{{wwQpddppppppQQQQ222QQQQQ222(.       .       .    
+       ...    ...     ...,222w-2QQQQQ2,%v(.. .  ...    ...     .QdddddddddddddddnddddddddddddpQ,..!v{{{!pppppppppQQQQ222v222Q22%.                     
+..    ....    ....    ...,%2%,,%QQQQ2n.%(!..   ....    ....    .Qpdddddddddddddd2dddddddddddddpQ(..(v{{{QppppQQpQQQ2222%%n%2222t.                     
+.. ......................,%2_.,%2QQ2%,,%(!.....................,Qdddddddddpdddddpdddddddddddpddpp2..,v{{wQpQpQQQQ2Q22222%%n(n2%w                      
+                         ,n!  .%QQQ2( .n(.                     .Qpddddddddddddd{pdddddpdddddpddddp2. .vv{2QQpQQQQ2Q2222%%(nnnvt,                      
+                         ...  .%QQQn.  _!                      .Qpdddddddddddddpdddpp2pdddddddddddQ%..,v{!2QQQQQ222222%%%n,wnnw*                      
+                         ..  ..%QQQ|.  ...                     .Qpdddpdddddddddppp2tQddddddddddddddQ-.(nw{2QQQQQQQ2QQ%%%%%nnnnnw,                     
+      .                       .%Q2%.                           .2pQQpQQdddddddpQQwvpdddddddddddddddp2-Qpw{{2QQQQQQQQ2%--n%%ntnnnw(.           {  {{   
+                              .!22_.                            %ppwwwpdddddddpww{pdddddddddddddddddpQpdQww%QQQw%Q222%n=n%wntnnnnwv        {  {  { {{ 

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 54 54"
+        style="width: 100%; height: 100%; overflow: auto;">
+    <script type="text/javascript"><![CDATA[
+window.addEventListener('load',function() {
+    var bounding_rect = document.getElementById("bounding-rect");
+    var text = document.getElementById("ascii");
+    var bb_text = text.getBBox();
+
+    // Change the font size so that the height and width match up
+    var font_size = Math.round(1e3 * bb_text.height / bb_text.width) / 1e3;
+    text.setAttribute("font-size", font_size + "px");
+
+    // Adjust size of bounding rectangle
+    bb_text = text.getBBox();
+    bounding_rect.setAttribute("width", bb_text.width);
+    bounding_rect.setAttribute("height", bb_text.height);
+}, false);
+    ]]></script>
+    <style type="text/css">
+    text.ascii-art {
+        user-select: none;
+        whiteSpace: "pre";
+        fill: white;
+        -webkit-user-select:none;
+        -khtml-user-select:none;
+        -moz-user-select:none;
+        -ms-user-select:none;
+    }
+    </style>
+    <rect x="0" y="0" height="100%" width="100%" id="bounding-rect"/>
+    <text x="0" y="0" id="ascii" font-family="monospace, courier" text-anchor="start"
+        font-size="1px" class="ascii-art">
+    <tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                                    .!((((((((({{{{{{{{{{{{{=                                       </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                                    .%Q22222222$$$$$$$$$$$$$t_.                                     </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                                    .t222222%Qd$$$$$$$$$$$$$$%-                                     </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                                   ,=%222222%$$$$$$$$$$$$$$$$$(,           ,!,                      </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                                   {Q%222222%$$$$$$$$$$$$$$$$$Q{           ($!                      </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                                   vQ%222222%$$$$$$$$$$$$$$$$$$$,.        .v$v-                     </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                      ,.         .,{2%222222%$$$$$$$$$$$$$$$$$$$n!      .,v2$$$,                    </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                    .=$w.        =2%22222222%$$$$$$$$$$$$$$$$$$$$w.     ({v2$$$,                    </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                    {Q$$$=       *Q%22222222%$$$$$$$$$$$$$$$$$$$$pv,    (wv2$$$,                    </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                    wp$$$*       *Q%22222222%$$$$$$$$$$$$$$$$$$$$$$=  _vvw$$$$$,                    </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                    wQ$$$$2.   .wt2222222222%$$$$$$$$$$$$$$$$$$$$$$w((t$$$$$$$$,                    </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                    wQ$$$$$dv  .%22222222222%$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$dpp{!.               </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                    wp$$$$$$$2wv%2222222222%t$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Qn(,            </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                    wQp$$$$$$$$$2%22222222%Q$$$$$$$$$$((((((2$$$$$$$$$$$$$$$$$$$$$$$$$$w!.          </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                  _vt2t$$$$$$d$d2%22222222tp$$$$$$Qvv!    .wd$$$$$$$$$$$$$$$$$$$$$$$$$pv|.          </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">               *((wQ22%Q$$$$p%%%22222222%2d$$$$$$w|      v2$d{{{{{{{t$$$$$$$$$$$$$$$$t=.            </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">             _(%Q22%222%%%%%%222222222%%Q$$$$$$%(       .{tn*       .{Q$$$$$$$$$$d2w!_              </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">             *{%2222222222222222222%%%2p$$$$$dn.                 -((((t$$$$$$$d2w!.                 </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">               ({{n2222222222222%%%QpQ$$$$$$Q*                 .!2$$$$$$$$$dQv*                     </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                  *w{wwn22222222QQQ$$$$$$$$2                   -pppppppppQ(|        ,.              </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                       *twwwwwwt$$$$$$$$$$$w                                       .{(              </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                  ..           .(t$$$$$$$d,                    .|||||||||_         .v(.             </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                 .={,            .........                    ,($$$$$$$$$$=,         -w_            </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                ,{=.             .,,,,,,,,,.                .,$$n(------v%$d,.       -w|            </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                ,w=             .{$$$$$$$$$$.              .t$v_.       .._n$v.       .!v.          </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">               ((,.            _$$%(*****!n$$v            *$$t-            =2$$,       !w.          </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">               vv    .(tdd2.  d$(=,       ._(d$-   .$$$$$|*$p,   {$$$$%    .,$$-       .-(!         </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">             |(_,   !(-=!!(Q$$$2.            vd$Q t$wvvvv$$$Q  _$pvvvv2$!    $$-         {(         </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">             *w.    vv    .($${,      ($$$$% .=$$$Q{.    vQ$Q p$w*    |w-    $$-         -|(-       </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">             *w.    __      n$(     .ddttttQ$(.$$t=       *$$=w{           ,*$$-          ,n|       </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">           .!=*.            t$(    wdQv    |Q*.$$         -%$$-            ($dt.          -n|       </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">           ,n|              t$w-   wQ.       ,*$$           (dQt|,      ,*2Qd=            .!==.     </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">           ,n=              ($$p.            w$$t             2$$Qnnnnnnd$$w                !w.     </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">          -|(-                2$w(-       ,={d$,               -$$$$$$$$$$.                 !w.     </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">          {(                   -$$p{(((((vQ$$(                                              |(_,    </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">          v(                     v$$$$$$$$$p                                                  vv    </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">          v(                                                                             ..,. v(    </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">          v(                                                                            .v{{=.v(    </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">         .v(                                                       .,               ...  v(.*{{(    </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">        *{,.                            ..                         $$.             .(v{_.v( ..v(    </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">        !w.  =v.                        d$-                       .$$,              ...!v{(   ..    </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">        !w.,vv{,                        $$-                      w${=   !vnnn{(.       .-{(         </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">        !wv(-(w.              *((|      =v$Q                   |$Q(. (vw%QQQQQ%v*        ,,         </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">        !w=, *w(!           -({w2t{(!     (t$(                (t$Q{{w2QpQQQQQQQn(                   </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">        ,|   !w*_           =n{wQQpQ%{vvvvvt$2v.    (vvvv{( |{2pQQpppQQQQQQQQ%nn(                   </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">             ,=             |w{wtttQQppppppQQQQv! |v2ppppp2vnpQQQQQQQQQQQQtttwv*-                   </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                       ,*.  =n{{{{{ntttt2QQQQQQp2(tpQQQQQQQpQQQQQQQQQttttt{{{w{.                    </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                    =!!v2,  ,!vw{{{{{{{{n%%%%%%%2pQQQQQQQQQQQQQQQ2%%t{{{wntt%v*.                    </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">                ._=*%ppQQ(|   =({ww{{{{{{{{{{{{{w%%%%%%%%%%%%%%%2n{{{nnnQQ2t{-                      </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">             .--=w%pQQQQQQt_.  .((({ww{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{w2222%(|                        </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">           .,(www{n222222w{w!      *v(vwwwwwwww{{{{{{{{{{{{{{{{{{{ww{wv(((                          </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">           -ww{{{{{{{{{{{{{w(,.       -vvvvvvvv{w{{{{{{{{{{{{{{{w{vvvv=                             </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">           ,vvvvvvvvvvvvvvvvvv,               .(vvvvvvvvvvvvvvvv{=                                  </tspan>
+<tspan x="0" dy="1.852%" textLength="100%" xml:space="preserve">            ..................                 ..................                                   </tspan>
+    </text>
+</svg>

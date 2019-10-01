@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 76 76"
+        style="width: 100%; height: 100%; overflow: auto;">
+    <script type="text/javascript"><![CDATA[
+window.addEventListener('load',function() {
+    var bounding_rect = document.getElementById("bounding-rect");
+    var text = document.getElementById("ascii");
+    var bb_text = text.getBBox();
+
+    // Change the font size so that the height and width match up
+    var font_size = Math.round(1e3 * bb_text.height / bb_text.width) / 1e3;
+    text.setAttribute("font-size", font_size + "px");
+
+    // Adjust size of bounding rectangle
+    bb_text = text.getBBox();
+    bounding_rect.setAttribute("width", bb_text.width);
+    bounding_rect.setAttribute("height", bb_text.height);
+}, false);
+    ]]></script>
+    <style type="text/css">
+    text.ascii-art {
+        user-select: none;
+        whiteSpace: "pre";
+        fill: white;
+        -webkit-user-select:none;
+        -khtml-user-select:none;
+        -moz-user-select:none;
+        -ms-user-select:none;
+    }
+    </style>
+    <rect x="0" y="0" height="100%" width="100%" id="bounding-rect"/>
+    <text x="0" y="0" id="ascii" font-family="monospace, courier" text-anchor="start"
+        font-size="1px" class="ascii-art">
+    <tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">     .     .                                                                             ....          .....    ..     ...  ..    .     .         . . </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">     .                                                        . ... .                    .... .        .....    ..     ...  ..      .   .         ....</tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                                                       ....._vwwww(www!,.......          .... .        .,.       .     ...  ..      .   .         ..  </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                                                  ....,wwttt%%%%%nt-%%%%tnwv....         ...          .,.,              ....                       .  </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                                              ...!wt%%%2222222222%%%_2222222%%tnw!..........         ,,.!               ....                       .  </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                                            ..wt%%%2222222222222!2%%%|222222222222%ttnv-,,...........ww{.               ....         .             . .</tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                                          .-t%%222222222222222222%(*%22222222222222222%%%%tnnnwwwntttnw.                ....                        . </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                                        ..w%222222222222222Q22222{((%2t222Q22Q2222222222222%2%%%%%%%%w.       . .       ....   ..                .  . </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                                      ..w%%222222222222QQQQQQQQ{2((((22(2QQQQQQQQ22222222222222222%tw.       ..  .      ... .. .. .       ..     .. . </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                                     .(t%222222222222QQQQQQQQQ22v((*|2Q2vQQQQQQQQQQQ2222222222222%n..        ..         ...    ..     .   ..     .. . </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                                    ..t%22222222222QQQQQQQQQQQ!2v(v||%QQ2QQQQQQQQQQQQQ222222222%%w..                    ... .                         </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                                  ..{t%222222222QQQQQQQQQQQQQ222v((||wQQQtQQQQQQQQQQQQQQ222222%n,.                      ...    ..  .   .              </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                                 ..w%222222222QQQQQQQQQQQQQQQv2{vv|||_QQQ22QQQQQQQQQQQQQ2222tn,..                       ... . .  ..                   </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                            ..  ..-%22222222QQQQQQQQQQQQQQQQQ{Q{vv||||QQQQ!QQQQQQQQQQQQ22%w=......              .       ... .  . .   .. .           . </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                          . .. ..|%222222Q2QQQQQQQQQQQQQQQQQQ22{v(|||=QQQQQQQQQQQQ222n(!=,.....                  .      ... .. ..       .             </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">     .     .           . .  .. .|t222222QQQQQQQQQQQQQQQQpppQQQw{v*|||=2QpQQ(QQ2{v(((!_.. . ....                         ... .  .. .                   </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">  .        .  .        .     ...t222222QQQQQQQQQQQQQQpQpppppn2{{v*||=*2QpppQvv(((!.      . .....                        ... .     ..   .              </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">.. .                          .(%222222QQQQQQQQQQQQppQppQppQ(2{{v*===*wQppQQv((,..         ...                          ... .     ..                  </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">,,,..                        .,t2222Q2QQQQQQQQQQQpQppppppppQQn{{!*****vQppppv-,...         . .  ..                      ... .    ... .                </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">.,,,,...                     .t%2222QQQQQQQQQQQQppQppppppppQQwww_vvv{2pppdpppQQ22{...      .......                      ..... .  .    .               </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">..,...,..  .        .    .  .{%222QQQQQQQQQQQQQpppppppppppppQnv%w{{QQppddddddpppQQ22(... . .......     .                 .... .  .                    </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">  .....,,,.....     .    . ..%2222QQQQQQQQQppQppppppppdddpp2%QQt2QppddddddddddddppppQQ2t.,......... ........,,,,......   .... . .                     </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">     ...,,,,....    .  . ...w222QQQQQQQQQQQpppppppppdddppp2QpQvppdddddddddddddddddddpppQQ2n,,.......,wt%%%22%%%tttnnn{   ....                         </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">       .....,,......... . ..t222QQQQQQQQQQpppppppppddpdppwpppQpddddddddddddddddddddpdppppQQ2(,..,,w%222222222%tnw.*tn.  .....                         </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">          .....,...........n%22QQQQQQQQQQQpppppppdpddpp2QppQpdddddddddddddddddddddddddpdpppQQ2w(22QQQQQ222%n|,.***wtw.   ...                          </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">             ....,,........%22QQQQQQQQQQQpppppppddddpQ!pppQQdddddddddddddddddddddddddddddppppQQQQQQQQQ22t,,,,..**!tt..  ...                           </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">              ...,,,,.....n%2QQQQQQQQQQQppppppdddddpQvpddpQddddddddddddddddddddddddddddddppppppppQQQQ2%__,,,.,.*!wtt.    ..                           </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                 ...,,...,%2QQQQQQQQQQppppppppdddddQQdddpvdddddddddddddddddddddddddddddddddppppppQQQ2||_-,,,,,*!!%tw     ..                           </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">...                 ...,,,22QQQQQQQQQpppppppdddddpvQdddp(pdddppQQQQddddddddddddddddddddddddddppppQ2|||_--,,,,,!!(%w.                                  </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">......                ..,w22QQQQQQQppppppppddddpp{pdddpwQddddQ(((((QddddddddddddddddddddddddddppQ%!|||__-,,,,|((%t. .                                 </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">.......                .,t2QQQQQQQQQppppppdppddp(pddddQ(pdddp((!,,(!pdddddddddddddddddddddddpdpppQ(*||__--,,,!(%%(.  . .                              </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">.........               .t2QQQQQQQQQppppppdppdp(pddddQwQpddpp(!,,,*QQdddddddddddddddddddddddpddppQ((*||__---!(w%t.     .                              </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">............            ,2QQQQQQQQQppppppddpppQpddddpwwpdddpp(!,,,-(QddddddddddddddddddddddddddppQ2v(|||__-|((2t.      .                              </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">..............          _2QQQQQQpppppppdddddp*pddddd%w{pddddpw(!,-(vpddddddddddddddddddddddddddddpQ2v!|||_|((2%,.     .. ..                           </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">................        *2QQQQQpppppppdddddpvpdddddpww*pdddddp2*(((pddddddddddddddddddddddddddddddp{Q{_|||!v%2_.      ..  .                           </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">................... .   (2QQQQQpppppppddddp(ddddddpw{wvddddddddppppdddddddddddddddddddddddddddddddpppQ%*=!v22n..      .                               </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">......................  v2QQQQQQQpppppddpptpddddddQw{{(ddddddddddddddddddddddpdddddddddddddddddddp2pppQv*vv2%..                                       </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">........................|2QQQQQnQQQppppdp(pddddddpw{{{!pddddddddddddddddddddddddddddddppQQpddddddp(ppppQvw22!,..                                      </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">........................,2QQQQQ2222nQppd2pdddddddww{{{(pdddpdddddddddddddddddddddddddp!((((ppddddp(ppppQnQ22Q2%w.                                     </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">........................,2QQQQQ!tQ=2Q!Qtppdddddppw{{w{wpdddpdddddddddddddddddddddddpd!((,,(npddddp(pppppQ22QQQQ22w..                                  </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">........................,%QQppQQwQpQvQv2pddddddd2w{{{{(Qddddddddddddddddddddddddddddp((,,--Qpddddp(pddppQ!QpQQQQQ2%(....                              </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">........................,{QQpppp(!pppQ2Q(ddddddpw{w{{*Q(pddddddddddwddddddddddddddddp((,,,,(Qddddd(pdddppQQpQQQQQQ22t...                              </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">(-.................. ...,-2QppppQ2tpQ2pQQtpdddptw{{{vQppvddddddddddpQpdddddddddddddddw((,-!vpddddd(pdddppQvpQpQQQQQQ22n.                              </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">-..........,,......  ....,%QQppppQ2Q(ppdQQQQddQw{{{{2pddQpddddddddddQpdpdddddddddddddQv(((*ppddddp(ppddppptQpQQQQQQQ222*..                            </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">,,........,,,.....   .....,2Qppppp2nQpdddp(2Qpw{{{{vpddddppdddddddddddpptdddddddpddpddppQQpdpddddp(pdddpppQQpQQQQQQQQQ2%n.                            </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">=t|.,.....,,,....    .!,(-,,2QppppQQpdpddddQ2(w{{{{QddddddppdddddddddddddwppwpddpddddddddpddddddpQvpdddppppQQQQQQQQQQQ222n.                           </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">,,........,,,....    ,,-,,,,-Qpppp2pdddddddpv2{{{{*pdddddddppddddddddddddpppddddddddddddddddddddpw{pdddddpp!QppQQQQQQQQ22%-                           </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">....-.....,,,..,.   .=|((!____QppQpdddddddddpw2{{{ppddddddddpQdddddddddddddddddddddddddddddddddpwwwpdddddppQQppQQQQQQQQQ22%_.                         </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">....,,....,|,.,=.   .!v22%vww(!Qp(pdddddddddpw!2{2pddddddddddp2pdddddddddddddddddddddddddddddddt{wvpddddddpp*QpQpQQQQQQQ222t.                         </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">..,-|,|!==,--=v{.   .(%Qvtdd%QQ2{pddddddddddw{{v2Qdddddddddddddp!pddddddddddddddddddddddddddddpwwQ(pdddddddpQQpQpQQQQQQQ2222t.                        </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">...|((!==-,=|vw!.   .{ppwtpQ2pdptppdddddppdpw{{{|(pddddddddpdddddQ2pdddddddddddddddddddddddddpw{vQ(dddddddppp!QpQQQQQQQQQ222%,                        </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">.................   .=nQQ%p2pddpppppdpddpddQ{{{{Q2(ddddddddpddddddp%{Qppdddddddddddpdddddddp2ww2ppndddddddpppQQQQQQQQQQQQ2222n.                       </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve"> .......    .....   ...=(vvwQpd2pdppdppdpdpw{{{!pQ22ddddddddddddddd2w{(%QppddddddddddddddppwwwQpddQpddddddppppvQQQQQQQQQQ2222%(                       </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">.........    .....  ...vt=tQv2%QppddpdddddQww{{Qppw2pdddddddddddddptw{{ww!QQppppddddddddpQww!QpddddpdddddddpppQQQpQQQQQQQQ2222w.                      </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">..-,,-,,......_,.......!!-((ww2Qpppdpddddd%ww{|({w2(npppdddpppppppQ(w{{{{{{{wv!(%QQQQQp2!wQpddddddppddddddddppQ!QQQQQQQ2222222t,                      </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">-,-____--,,,,,,,,,,,,,,_____||2ppppppddddpww{v(!t={{2w{wwwwwwwwwww{v{{{{{{{{{{{{w{w2QpddddddddddddpQdddddddpppQ22w!(ww2w(!%222%w,.....................</tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">________________________||||*wQQpppppppppQw{vv*||wt!2v{{{ww{{{{{{{{{{{{{{{{{{{{{{{w{2ppdddddddddddpwddddpppQQt(2ttv=v%2%w|w2222n-,,,,,,,,,,,,,,,,,,,,,</tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">,,,,,,,,,,,,,,,,,,,,,,,,,,,,-%QQQppppppppQw{v*-,,---w---|(v(vv(v((*t{{{{{{{{{{{{{www!wwpppddpddddpp(pddpQQ(22(%QQ2QQQQQ2%ww2222t,.. ..... ..  .       </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">,...........................,2QQQpppppppQn{{v.....................-Q2w{{{{{{{{{ww2pppw{wwwwwwttwwwQQQQQ!2t(QppppQ2QQQQ2|ww22222%,.                 .  </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">--__-____--_--_-----_---,___wQQQQQpppppppw{{(-,,,,,,,,,,,,.,,,,,,||ppQww{{{{{wwQppddp(w{{w{wwwww{wwQQv2{pQdppppppQwQQ2|w%2222222(,.........,....... ..</tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">,_-,,,,,-,-,,,,,,,,,,,.,,,--2QQQQQQppppppw{v-,,,,.....,,,,,,.,,,,|2pddpwwwwwwppddddddQ!vv{{{{{w{{{{t22pdddddddppppQ2wt=Q2QQ22222w.,... ......    .. . </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">.,-,.,.,,,,,..,..,,.,..,.,_-2Q22QQQQQQQQQ{vv_.....,,..,,,..,..,.,|QdddpdptQpdddddddddpQ_--(v{v{{{(tvwpddddddddppppQ((2QQQQQ22222t,,.. ....... .....   </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">...... .............. ...._nQQt=QQQQQQQQ2vv(,.. ...........,....,{pdddddddddddddddddddQw,,,,,,-|t={{wQpdddddddpQppQQ2QQQQQQ22222t..     ..       .    </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">.. ..  ...... ... ... ... ,%22Q2QQQ2=(QQ%(v*... ... .. ... ... .,2pddddddddddddddddpddp2,....,,tv{{{{QpddddpdppppppQ(QQQQQQQ2222n,                    </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve"> .     ...    ...       ..,22QQQQQQ2=%2Qn-(.    .      .       .,Qpddddddddddddddddddddp,....,w,vv{{{!pdddppdpppppQQ22QQQQQQ2222n.                    </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">   .,  .....,.......  ....w22QQvQQQQQQQQv((...   . . .     . ...*QddddddddddddddddddddddQ_,..t(=|(w2t2QpddppdppppQQQQn2QQQQQ2222n,             .      </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">  ..., ...........,.. ...,%2QQ22QQQQQQQ2w(!....   ..... . .,....%pddddddddddddddddddddddpQ2,,.,-,|!v{{(pddddppppppQQQ2nQQQQQQ222w..      .       .    </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">   ... .............. ...,%2Q2*2QQQQQQ|2vv_....  ........  ,...,2pddddddddddddddddddddddddpQ2_,..,v{{wwQpddppppppQQQQ222QQQQQ222(.       .       .    </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">       ...    ...     ...,222w-2QQQQQ2,%v(.. .  ...    ...     .QdddddddddddddddnddddddddddddpQ,..!v{{{!pppppppppQQQQ222v222Q22%.                     </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">..    ....    ....    ...,%2%,,%QQQQ2n.%(!..   ....    ....    .Qpdddddddddddddd2dddddddddddddpQ(..(v{{{QppppQQpQQQ2222%%n%2222t.                     </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">.. ......................,%2_.,%2QQ2%,,%(!.....................,Qdddddddddpdddddpdddddddddddpddpp2..,v{{wQpQpQQQQ2Q22222%%n(n2%w                      </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                         ,n!  .%QQQ2( .n(.                     .Qpddddddddddddd{pdddddpdddddpddddp2. .vv{2QQpQQQQ2Q2222%%(nnnvt,                      </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                         ...  .%QQQn.  _!                      .Qpdddddddddddddpdddpp2pdddddddddddQ%..,v{!2QQQQQ222222%%%n,wnnw*                      </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                         ..  ..%QQQ|.  ...                     .Qpdddpdddddddddppp2tQddddddddddddddQ-.(nw{2QQQQQQQ2QQ%%%%%nnnnnw,                     </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">      .                       .%Q2%.                           .2pQQpQQdddddddpQQwvpdddddddddddddddp2-Qpw{{2QQQQQQQQ2%--n%%ntnnnw(.           {  {{   </tspan>
+<tspan x="0" dy="1.316%" textLength="100%" xml:space="preserve">                              .!22_.                            %ppwwwpdddddddpww{pdddddddddddddddddpQpdQww%QQQw%Q222%n=n%wntnnnnwv        {  {  { {{ </tspan>
+    </text>
+</svg>

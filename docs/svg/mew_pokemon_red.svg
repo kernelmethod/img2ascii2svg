@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 61 61"
+        style="width: 100%; height: 100%; overflow: auto;">
+    <script type="text/javascript"><![CDATA[
+window.addEventListener('load',function() {
+    var bounding_rect = document.getElementById("bounding-rect");
+    var text = document.getElementById("ascii");
+    var bb_text = text.getBBox();
+
+    // Change the font size so that the height and width match up
+    var font_size = Math.round(1e3 * bb_text.height / bb_text.width) / 1e3;
+    text.setAttribute("font-size", font_size + "px");
+
+    // Adjust size of bounding rectangle
+    bb_text = text.getBBox();
+    bounding_rect.setAttribute("width", bb_text.width);
+    bounding_rect.setAttribute("height", bb_text.height);
+}, false);
+    ]]></script>
+    <style type="text/css">
+    text.ascii-art {
+        user-select: none;
+        whiteSpace: "pre";
+        fill: white;
+        -webkit-user-select:none;
+        -khtml-user-select:none;
+        -moz-user-select:none;
+        -ms-user-select:none;
+    }
+    </style>
+    <rect x="0" y="0" height="100%" width="100%" id="bounding-rect"/>
+    <text x="0" y="0" id="ascii" font-family="monospace, courier" text-anchor="start"
+        font-size="1px" class="ascii-art">
+    <tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddvv,,vvdddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddvv,,vvdddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddvv,,pppppp,,vvdddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddvvpppppppppppppp,,dddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd,,pppppppppppppppp%%vvdddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddvvpppppppppppppppp%%,,dddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddvv,,,,pppppppp%%%%%%vvdddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddvv,,,,,,%%%%%%,,dddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddvv%%%%,,dddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddddddvv,,,,vvdddddd,,,,,,,,,,,,vvdddddddd,,,,,,ddddddddddddvv%%,,dddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddd,,%%pppp,,,,vv%%pppppppppp%%%%vv,,,,pppp,,dddddddddddd,,pp,,dddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddd,,vv%%pppppppppppppppppppppppp%%,,pppp%%,,dddddddddddd,,pp,,dddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddd,,vv%%pppppppppppppppppppppppppppp%%vv,,dddddddddddd,,ppvvdddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddd,,vv%%pppppppppppppppppppppppppppp%%vv,,dddddddddddd,,ppvvdddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddd,,vvpppppppppppppppppppppppppppppp%%vvvvddddddddddvvpp%%vvdddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddddddddvvpppppppppppppppppppppppppppppppp%%,,dddddddddddd,,pp,,dddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddddddvv%%pppp,,vv%%pppppppppppp%%vv,,pppppp%%vvdddddddd,,pp%%vvdddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddd,,ppppvv%%%%vv%%pppppppp%%vv%%%%vvpppppp,,dddd,,vvpp%%,,dddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddd,,ppppvv%%,,,,vv%%ppppppvv,,,,%%vvpppp%%,,,,vv%%%%%%,,dddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddddddvv%%ppvvpp,,pp,,pppppppp,,pp,,ppvvpppp%%,,%%%%%%,,vvdddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddd,,pppppp,,,,,,pppppppp,,,,,,pppppppp%%vvvv,,vvdddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddd,,pppppppp,,vv%%%%%%%%vv,,pppppppp%%,,dddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddvv,,,,vv%%pppp%%%%%%%%%%%%%%%%%%pppppp%%,,dddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddvv,,%%%%%%%%,,vv%%pppppppppppppppppp%%pp,,vvdddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddvvpppp%%%%,,,,,,,,vvvvppppppppppppppppvv,,dddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddd,,pppp,,vvdddddddddd,,vvppppppppppvv,,,,dddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddd,,pppp,,vvdddddddddd,,vvppppppppppvv,,,,dddddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddvvpppp,,dddddddddddddddddd,,,,,,,,,,,,vvvv,,dddddddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddd,,%%pp,,dddddddddddddddd,,,,vvvvvvvv%%%%%%%%,,vvdddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddvv%%ppppvvddddddddvv,,,,,,vvvvvvvv%%pppppp%%%%%%,,,,dddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddd,,pppp,,ddddddvvpppp%%,,vvvv%%%%ppppppppvv%%%%%%%%,,dddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddvvppppvvdddddd,,pppp%%,,%%%%pppppppppppp%%vv%%%%%%%%,,dddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddd,,%%%%,,ddddddvv,,,,%%pppppppppppppppp%%,,,,%%%%,,dddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddvv%%%%%%,,dddddd,,,,%%pppppppppppppp%%%%,,dd,,,,dddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddd,,%%vvvv,,vv,,,,,,%%ppppppppppppvvpp%%%%vvdddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddvv,,vvvv,,vv,,,,vv%%pppppppp,,pppppp%%,,dddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddd,,,,,,vv,,,,,,vv%%pppppp,,pppppp%%,,dddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddd,,vvvv,,,,,,vv%%%%%%vvpppp%%%%,,dddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddd,,vvvv,,,,,,vv%%%%%%vvpppp%%%%,,dddddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">dddddddddddddddddddddddddddddddddddddddd,,vv,,,,,,,,,,,,vvdd,,%%%%,,vv,,dddddddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddddvv,,,,,,,,,,,,,,,,,,vvdddddddd,,vv%%%%%%,,,,dddddddddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddvv,,,,,,,,vvvv,,,,,,,,dddddddddddd,,vv%%%%pppppp,,,,vvdddddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddvv,,,,,,,,,,,,,,,,,,,,dddddddddddddddd,,,,pppp%%pppp%%%%,,dddddddddddddddddddddddddddd</tspan>
+<tspan x="0" dy="1.639%" textLength="100%" xml:space="preserve">ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddvv,,,,,,,,,,vvdddddddddddddddddddddddddddddd</tspan>
+    </text>
+</svg>
