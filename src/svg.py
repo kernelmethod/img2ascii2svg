@@ -61,7 +61,7 @@ def ascii_to_svg(txt):
     svg_start = f"""\
 <?xml version="1.0" encoding="UTF-8" ?>
 <svg xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 {height} {height}"
+        viewBox="0 0 {width} {height}"
         style="width: 100%; height: 100%; overflow: auto;">
     <script type="text/javascript"><![CDATA[
 {SQUARE_SVG_JS_INJECT}
